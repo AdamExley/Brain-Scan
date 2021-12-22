@@ -14,3 +14,6 @@ In `run.py`, change the Extractor's args for `run_and_cvt` to your file.
 The second arg is the crop factor, this is best changed with trial and error (change crop and run until you get expected area extracted)
 
 This will then bring up a 3D model of your brain. Slicing the `frames` variable will slice this model.
+
+## Example Output
+![brain](https://user-images.githubusercontent.com/34522460/147154622-bc29cb10-77c2-478b-bc67-1d80ba7d61cd.png)
